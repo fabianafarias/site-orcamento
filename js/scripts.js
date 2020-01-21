@@ -61,7 +61,7 @@ $(function() {
   function atualizar_orcamento(parametros) {
     $(".refresh-loader").show();
 
-    var quantidade = parametros.qualidade;
+    var quantidade = parametros.quantidade;
     var preco_unit = camisetas[parametros.cor][parametros.gola][parametros.estampa].preco_unit;
     var foto = "img/" + camisetas[parametros.cor][parametros.gola][parametros.estampa].foto;
 
