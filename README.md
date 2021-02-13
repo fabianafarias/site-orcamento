@@ -1,3 +1,3 @@
-### Tshirt-shop
+# Tshirt-shop
 
-# Site developed with js, jquery and sass.
+### Site developed with js, jquery and sass.
